@@ -23,7 +23,7 @@ scanf("%d %d",&fs.f[i].num,&fs.f[i].deno);
 
 }
 
-struct fractions compute(struct fractions fs)
+struct fractions compute(struct fractions fs) //structured function
 {
     
 int i;
